@@ -15,3 +15,4 @@ Traceback (most recent call last):
 NameError: name 'Post' is not defined
 2022-12-10 10:00:38,595 INFO: Microblog startup [in /Users/dyue/Dropbox/Projects/WebDevelopment/microblog/app/__init__.py:44]
 2022-12-10 12:28:24,874 INFO: Microblog startup [in /Users/dyue/Dropbox/Projects/WebDevelopment/microblog/app/__init__.py:46]
+2022-12-10 17:31:20,116 INFO: Microblog startup [in /Users/dyue/Dropbox/Projects/WebDevelopment/microblog/app/__init__.py:54]
